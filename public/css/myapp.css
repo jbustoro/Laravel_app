@@ -3,11 +3,13 @@ body {
     margin:0;
     padding:0;
 }
+
 #container{
     margin: 0;
     padding: 0;
     height: 700px;
 }
+
 header {
     position:fixed;
     top:0;
@@ -15,10 +17,11 @@ header {
     height:40px;
     padding:0;
 }
+
 #main {
     padding-top:100px;
-    text-align:center;
 }
+
 footer {
     width: 100%;
     bottom: 0;
@@ -26,16 +29,23 @@ footer {
     background-color: #090909;
 }
 
-header #title {
-    margin: 0;
-    padding: 0;
-    color: red;
-}
-
 footer #author{
     text-align: center;
 }
 
+#estado{
+    text-align: center;
+}
+
+#signUp{
+    margin: 0 auto;
+    width:250px;
+}
+
+#login{
+    margin: 0 auto;
+    width:250px;
+}
 
 /*
 with !important you can override bootstrap css

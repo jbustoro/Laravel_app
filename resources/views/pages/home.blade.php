@@ -2,7 +2,6 @@
 
 @section('content')
     <div class="home">
-        <!-- <img src="https://media.giphy.com/media/3o8dFwze0Tz8umFQhW/source.gif">-->
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
